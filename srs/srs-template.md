@@ -419,6 +419,6 @@
 
 ### 5.2 Ссылки на артефакты
 
-- Репозиторий: https://github.com/ВАШ-ЛОГИН/SDLC
+- Репозиторий: https://github.com/mikitka-blr/SDLC
 - Структурные диаграммы SysML v2 (PNG): srs/images/
 - Исходный код диаграмм SysML v2: srs/sysml/
